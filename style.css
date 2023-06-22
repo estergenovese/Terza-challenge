@@ -1,0 +1,208 @@
+@import url('https://fonts.googleapis.com/css2?family=Prata&display=swap'); /*font-family: 'Prata', serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');/*font-family: 'Montserrat', sans-serif;*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');/*font-family: 'Montserrat', sans-serif;*/
+
+body{
+margin: 0;
+font-family: 'Montserrat', sans-serif;
+font-weight: 400;
+}
+
+.main-section{
+padding: 20px;}
+
+.image-container{
+border-radius: 6px;
+height: 500px;
+background-image: url("https://4.bp.blogspot.com/-4_QWmjgRnGc/WwBkneg1DDI/AAAAAAAAg68/3AxluQtDz4koIdxAJtC0HIWOy6DHWxn1wCLcBGAs/s1600/provenza.jpg");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;}
+    
+h1{
+font-family: 'Prata', serif;
+ font-size: 64px;
+ font-weight: 400;
+margin-bottom: 0;
+}
+
+h3{
+font-family: 'Prata', serif;
+font-size: 24px;
+font-weight: 400;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+h6{
+padding: 22px;
+margin-bottom: 0px;
+margin-top: 56px;
+color: white;
+border-radius: 6px;
+background:linear-gradient(0, #78309B,#5799DB);}
+
+#unordered-list{ 
+padding: 0;   
+list-style-type: none;}
+
+li{
+padding-top: 6px;
+padding-bottom: 6px;
+padding-left: 22px;
+border-bottom: solid #dfdfdf;
+}
+
+#Testo principale{
+text-align: justify;   
+}
+
+a{ 
+text-decoration: none;
+color:#C1AE33; 
+font-family: 'Montserrat', sans-serif;
+font-weight: 600;
+font-style: italic;}
+
+.Avignone{
+    border-radius: 6px;
+    height: 500px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiUtNLgQxbLIkU3o2pxMhIVb98-1eAJ-SP6w&usqp=CAU");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;}
+
+    #Avignone-gradiente{
+        padding: 22px;
+        margin-bottom: 0px;
+        margin-top: 56px;
+        color: white;
+        border-radius: 6px;
+        background:linear-gradient( #C1AE33, #0D622E);}
+
+    #Avignone-a{text-decoration: none;
+        color:#C1AE33; 
+        font-family: 'Montserrat', sans-serif;
+        font-weight: 600;
+        font-style: italic;}
+
+        .Arles{
+            border-radius: 6px;
+            height: 500px;
+            background-image: url("https://cdn.hometogo.net/assets/media/pics/1920_600/611ae32da777b.jpg");
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;}
+
+
+            #Arles-gradiente{
+                padding: 22px;
+                margin-bottom: 0px;
+                margin-top: 56px;
+                color: white;
+                border-radius: 6px;
+                background:linear-gradient( #f0a98aff, #eb9974ff);}
+        
+            #Arles-a{text-decoration: none;
+                color:#f0a98aff; 
+                font-family: 'Montserrat', sans-serif;
+                font-weight: 600;
+                font-style: italic;
+            margin-left: 0%;}
+
+            .Marsiglia{
+                border-radius: 6px;
+                height: 500px;
+                background-image: url("https://img.nh-hotels.net/8yYbq/pX71A/original/Vue_vieux_poRT2_Marseille.jpg?output-quality=70&resize=*:*&background-color=white");
+                background-repeat: no-repeat;
+                background-position: center;
+                background-size: cover;}
+    
+    
+                #Marsiglia-gradiente{
+                    padding: 22px;
+                    margin-bottom: 0px;
+                    margin-top: 56px;
+                    color: white;
+                    border-radius: 6px;
+                    background:linear-gradient(#5d8faaff, #2791c8ff);}
+            
+                #Marsiglia-a{text-decoration: none;
+                    color:#5d8faaff; 
+                    font-family: 'Montserrat', sans-serif;
+                    font-weight: 600;
+                    font-style: italic;
+                margin-left: 0%;}
+    
+                .Aix-en-Provence{
+                    border-radius: 6px;
+                    height: 500px;
+                    background-image: url("https://www.kayak.it/rimg/dimg/51/44/ae4646f5-city-21178-1690ca6fa28.jpg?width=1366&height=768&xhint=1251&yhint=3274&crop=true");
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    background-size: cover;}
+
+                    #h1-Aix-en-Provence{
+                        font-family: 'Prata', serif;
+                         font-size: 64px;
+                         font-weight: 400;
+                        margin-bottom: 0;
+                        color: aliceblue;
+                        border-color:black;
+                        border-width: 2px }
+                        
+                    #h3-Aix-en-Provence{
+                        font-family: 'Prata', serif;
+                        font-size: 24px;
+                        font-weight: 400;
+                        margin-top: 0;
+                        margin-bottom: 0;
+                        color:aliceblue;
+                    border-color: black}
+        
+        
+                    #Aix-en-Provence-gradiente{
+                        padding: 22px;
+                        margin-bottom: 0px;
+                        margin-top: 56px;
+                        color: white;
+                        border-radius: 6px;
+                        background:linear-gradient(#717c44ff,#e28033ff);}
+                
+                    #Aix-en-Provence-a{text-decoration: none;
+                        color:#717c44ff; 
+                        font-family: 'Montserrat', sans-serif;
+                        font-weight: 600;
+                        font-style: italic;
+                    margin-left: 0%;}
+
+                    .Orange{
+                        border-radius: 6px;
+                        height: 500px;
+                        background-image: url("https://cdn.britannica.com/66/140966-050-D48CFD09/Roman-arch-Orange-France.jpg");
+                        background-repeat: no-repeat;
+                        background-position: center;
+                        background-size: cover;}
+            
+            
+                        #Orange-gradiente{
+                            padding: 22px;
+                            margin-bottom: 0px;
+                            margin-top: 56px;
+                            color: white;
+                            border-radius: 6px;
+                            background:linear-gradient(#d0b296ff, #e0e2e4ff);}
+                    
+                        #Orange-a{text-decoration: none;
+                            color:#d0b296ff; 
+                            font-family: 'Montserrat', sans-serif;
+                            font-weight: 600;
+                            font-style: italic;
+                        margin-left: 0%;}
+
+    footer{
+        background-color: black;
+        padding: 16px;
+        text-align: center;
+    }
+    
